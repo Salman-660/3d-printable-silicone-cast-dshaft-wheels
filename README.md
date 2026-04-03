@@ -70,4 +70,4 @@ To achieve perfect concentricity and avoid misplacement or off-centering, do not
 ### ⚖️ Attribution & Support
 Original inspiration by **DrumBotics**. This project provides a hardware-free alternative for the robotics community, specifically targeted at those who need a reliable D-shaft fit without complex assembly.
 
-**Original Inspiration:** [DrumBotics - Silicone Wheels Tutorial]([https://youtu.be/wSwuph2TElI?si=L_Lbu_0M20XGUKMt])
+**Original Inspiration:** [DrumBotics - Silicone Wheels Tutorial](https://youtu.be/wSwuph2TElI?si=L_Lbu_0M20XGUKMt)
