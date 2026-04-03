@@ -60,7 +60,7 @@ To achieve perfect concentricity and avoid misplacement or off-centering, do not
 ###  Design Reference
 
 ![Hub Geometry - 8 Spoke Design](Screenshot_2.jpg)
-*Figure 1: Isometric view of the 8-spoke "T-hook" anchors and weight-reduction cuts.*
+* Figure 1: Isometric view of the 8-spoke "T-hook" anchors and weight-reduction cuts.*
 
 ![Mold Cavity Section](Screenshot_4.jpg)
 *Figure 2: Section view of the dual-cavity mold showing the integrated traction teeth.*
